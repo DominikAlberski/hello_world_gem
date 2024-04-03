@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "test gem"
   spec.description = "test gem"
-  spec.homepage = nil
+  spec.homepage = "https://github.com/DominikAlberski/hello_world_gem"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
